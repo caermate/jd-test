@@ -1,0 +1,472 @@
+{
+  "sites": [
+    {
+      "key": "iqiyizyapi_com",
+      "name": "🎬-爱奇艺-",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://iqiyizyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "dbzy_tv",
+      "name": "🎬豆瓣资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://caiji.dbzy5.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "tyyszy_com",
+      "name": "🎬天涯影视",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://tyyszy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "mtzy_me",
+      "name": "🎬茅台资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://caiji.maotaizy.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wolongzyw_com",
+      "name": "🎬卧龙资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://wolongzyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "ikunzy_com",
+      "name": "🎬iKun资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://ikunzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "dyttzyapi_com",
+      "name": "🎬电影天堂",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "www_maoyanzy_com",
+      "name": "🎬猫眼资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.maoyanapi.top/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "cj_lzcaiji_com",
+      "name": "🎬量子资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://cj.lzcaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "360zy_com",
+      "name": "🎬360 资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://360zyzz.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "jszyapi_com",
+      "name": "🎬极速资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://jszyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "www_moduzy_net",
+      "name": "🎬魔都资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.mdzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "ffzyapi_com",
+      "name": "🎬非凡资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.ffzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "bfzy_tv",
+      "name": "🎬暴风资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://bfzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "zuida_xyz",
+      "name": "🎬最大资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.zuidapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wujinzy_me",
+      "name": "🎬无尽资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.wujinapi.me/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "xinlangapi_com",
+      "name": "🎬新浪资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "api_wwzy_tv",
+      "name": "🎬旺旺资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.wwzy.tv/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "www_subozy_com",
+      "name": "🎬速播资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://subocaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "jinyingzy_com",
+      "name": "🎬金鹰点播",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://jinyingzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "p2100_net",
+      "name": "🎬飘零资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://p2100.net/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "api_ukuapi88_com",
+      "name": "🎬U酷影视",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.ukuapi88.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "api_guangsuapi_com",
+      "name": "🎬光速资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.guangsuapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "www_hongniuzy_com",
+      "name": "🎬红牛资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.hongniuzy2.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "caiji_moduapi_cc",
+      "name": "🎬魔都动漫",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://caiji.moduapi.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "www_ryzyw_com",
+      "name": "🎬如意资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "www_haohuazy_com",
+      "name": "🎬豪华资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://hhzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "bdzy1_com",
+      "name": "🎬百度云zy",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "lovedan_net",
+      "name": "🎬艾旦影视",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://lovedan.net/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "zy_sh0o_cn",
+      "name": "🎬山海资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://zy.sh0o.cn/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "zy_jinchancaiji_com",
+      "name": "🎬金蝉影视",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://zy.jinchancaiji.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "lzizy_net",
+      "name": "🎬量子影视",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://cj.lziapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "zuidazy_co",
+      "name": "🎬最大点播",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://zuidazy.me/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wujinzy_com",
+      "name": "🎬无尽影视",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.wujinapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "wwzy_tv",
+      "name": "🎬旺旺短剧",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://wwzy.tv/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "1080zyk4_com",
+      "name": "🎬优质资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.yzzy-api.com/inc/apijson.php",
+      "active": true
+    },
+    {
+      "key": "www_huyaapi_com",
+      "name": "🎬虎牙资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.huyaapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "yayazy3_com",
+      "name": "🎬鸭鸭资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://cj.yayazy.net/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "suonizy_net",
+      "name": "🎬索尼资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://suoniapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "kuaichezy_com",
+      "name": "🎬快车资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://caiji.kuaichezy.org/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "shandianzy_com",
+      "name": "🎬闪电资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://xsd.sdzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "yhzy_cc",
+      "name": "🎬樱花资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "91md_me",
+      "name": "🔞麻豆视频",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://91md.me/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "91jpzyw_com",
+      "name": "🔞91-精品-",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://91jpzyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "lbapiby_com",
+      "name": "🔞--AIvin-",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=http://lbapiby.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "155zy2_com",
+      "name": "🔞155-资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://155api.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "apiyutu_com",
+      "name": "🔞玉兔资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://apiyutu.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "fhapi9_com",
+      "name": "🔞番号资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=http://fhapi9.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "apilsbzy1_com",
+      "name": "🔞-老色逼-",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://apilsbzy1.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "www_yyzywcj_com",
+      "name": "🔞优优资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.yyzywcj.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "xiaojizy_live",
+      "name": "🔞小鸡资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.xiaojizy.live/provide/vod",
+      "active": true
+    },
+    {
+      "key": "hsckzy_xyz",
+      "name": "🔞黄色仓库",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://hsckzy.xyz/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "apidanaizi_com",
+      "name": "🔞-大奶子-",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://apidanaizi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "jkunzyapi_com",
+      "name": "🔞jkun资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://jkunzyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "lbapi9_com",
+      "name": "🔞乐播资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://lbapi9.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "naixxzy_com",
+      "name": "🔞奶香资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://Naixxzy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "slapibf_com",
+      "name": "🔞森林资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://beiyong.slapibf.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "apilj_com",
+      "name": "🔞辣椒资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://apilj.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "shayuapi_com",
+      "name": "🔞鲨鱼资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://shayuapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "xzytv_com",
+      "name": "🔞-幸资源-",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://xzybb2.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "doudouzy_com",
+      "name": "🔞豆豆资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.douapi.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "didizy_com",
+      "name": "🔞滴滴资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.ddapi.cc/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "heiliaozy_cc",
+      "name": "🔞黑料资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.heiliaozyapi.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "api_bwzym3u8_com",
+      "name": "🔞百万资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.bwzyz.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "api_souavzy_vip",
+      "name": "🔞souavZY",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://api.souavzy.vip/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "thzy8_me",
+      "name": "🔞桃花资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://thzy1.me/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "www_jingpinx_com",
+      "name": "🔞精品资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.jingpinx.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "ckzy_me",
+      "name": "🔞 CK-资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://ckzy.me/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "www_xxibaozyw_com",
+      "name": "🔞细胞资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.xxibaozyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "xiangjiaozyw_com",
+      "name": "🔞香蕉资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.xiangjiaozyw.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "www_msnii_com",
+      "name": "🔞-美少女-",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.msnii.com/api/json.php",
+      "active": true
+    },
+    {
+      "key": "www_pgxdy_com",
+      "name": "🔞-黄AVZY",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.pgxdy.com/api/json.php",
+      "active": true
+    },
+    {
+      "key": "www_kxgav_com",
+      "name": "🔞白嫖资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://www.kxgav.com/api/json.php",
+      "active": true
+    },
+    {
+      "key": "xingba111_com",
+      "name": "🔞杏吧资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://xingba222.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "dadizy11_com",
+      "name": "🔞大地资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://dadiapi.com/feifei",
+      "active": true
+    },
+    {
+      "key": "semaozy1_com",
+      "name": "🔞色猫资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "aosikazy_com",
+      "name": "🔞-奥斯卡-",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://aosikazy.com/api.php/provide/vod",
+      "active": true
+    },
+    {
+      "key": "siwazyw_tv",
+      "name": "🔞丝袜资源",
+      "api": "https://us.wanzhang.cloud-ip.biz/?url=https://siwazyw.tv/api.php/provide/vod",
+      "active": true
+    }
+  ]
+}
