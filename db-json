@@ -1,0 +1,70 @@
+{
+  "sites": [
+    {
+      "key": "dbzy",
+      "name": "豆瓣资源",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "active": true
+    },
+     {
+      "key": "lzzy",
+      "name": "量子资源",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "active": true
+    }
+    {
+      "key": "sbzy",
+      "name": "速播资源",
+      "api": "https://subocj.com/api.php/provide/vod/at/json",
+      "active": true
+    }
+    {
+      "key": "snzy",
+      "name": "索尼资源",
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "active": true
+    }
+    {
+      "key": "wjzy",
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",
+      "active": true
+    }
+    {
+      "key": "gszy",
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
+      "active": true
+    }
+    {
+      "key": "ykzy",
+      "name": "优酷资源",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+      "active": true
+    }
+    {
+      "key": "xlzy",
+      "name": "新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+      "active": true
+    }
+    {
+      "key": "xlzy",
+      "name": "金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "active": true
+    }
+    {
+      "key": "wlzy",
+      "name": "卧龙资源",
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "active": true
+    }
+    {
+      "key": "ckzy",
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+      "active": true
+    }
+  ]
+}
