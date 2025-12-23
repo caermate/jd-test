@@ -465,4 +465,8 @@
         {
             "key": "siwazyw.tv",
             "name": "🔞丝袜资源",
-            "api": "https://siwazyw.tv/api.php/provide/v
+            "api": "https://siwazyw.tv/api.php/provide/vod",
+            "active": true
+        }
+     ]
+}
